@@ -9,7 +9,7 @@ import { InMemoryUserStore } from "./data/user-store/in-memory-user-store";
 
 export const douCalendarI18n = new I18n<DouCalendarBotContext>({
   defaultLocale: "uk",
-  directory: "src/locales",
+  directory: "src/bot/locales",
 });
 
 const userStore = new InMemoryUserStore();
@@ -18,9 +18,8 @@ export function createBot() {
   // Create an instance of the `Bot` class and pass your bot token to it.
   const bot = new Bot<DouCalendarBotContext>(BOT_TOKEN); // <-- put your bot token between the ""
 
-  // You can now register listeners on your bot object `bot`.
-  // grammY will call the listeners when users send messages to your bot.
   bot.use(douCalendarI18n.middleware());
+  
   // Handle the /start command.
   bot.command("start", async (ctx) => {
     const userId = ctx.from?.id;

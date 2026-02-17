@@ -1,4 +1,5 @@
-package = "script-to-send-notifications"
+rockspec_format = "3.0"
+package = "notify_script"
 version = "dev-1"
 source = {
    url = "git+ssh://git@github.com/dolgachio/dou-calendar-bot.git"
@@ -8,15 +9,14 @@ description = {
    license = "*** please specify a license ***"
 }
 dependencies = {
-   queries = {}
+   "lua >= 5.1",
+   "http >= 0.4-0"
 }
 build_dependencies = {
-   queries = {}
 }
 build = {
    type = "builtin",
    modules = {}
 }
 test_dependencies = {
-   queries = {}
 }

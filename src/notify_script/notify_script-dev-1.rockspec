@@ -9,14 +9,15 @@ description = {
    license = "*** please specify a license ***"
 }
 dependencies = {
-   "lua >= 5.1",
-   "http >= 0.4-0"
+   http = "0.4-0",
+   lua = "5.3",
+   feedparser = "0.71-3"
 }
 build_dependencies = {
 }
 build = {
    type = "builtin",
-   modules = {}
-}
-test_dependencies = {
+   modules = {
+      main = "src/main.lua"
+   }
 }

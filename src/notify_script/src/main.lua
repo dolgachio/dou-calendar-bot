@@ -29,10 +29,12 @@ print("Entries:")
 print(parsed_data.entries[1]);
 
 for index, value in ipairs(parsed_data.entries) do
-    print(index.."."..value.title.." updated "..value.updated)
+    print(index..". "..value.title)
+    print("\n")
+    print("id: "..value.id)
     print("\n")
     print("🔗‍️ Link: \n"..value.link)
-    print("📝 Summary: \n"..value.summary)
+    -- print("📝 Summary: \n"..value.summary)
     print("📝 Summary Length: \n"..#value.summary)
     print("\n")
 end

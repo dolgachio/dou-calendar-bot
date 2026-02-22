@@ -1,0 +1,558 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Календар DOU</title>
+        <link>https://dou.ua/calendar/</link>
+        <description>Календар IT-подій на DOU</description>
+        <atom:link href="https://dou.ua/calendar/feed/" rel="self" />
+        <language>uk</language>
+        <lastBuildDate>Fri, 20 Feb 2026 20:07:49 +0200</lastBuildDate>
+        <item>
+            <title>Онлайн-курс “Event-Driven Architecture” з Principal Engineer у Microsoft від
+                robot_dreams, 24 березня</title>
+            <link>https://dou.ua/calendar/56530/</link>
+            <description>&lt;p&gt;&lt;a href="https://dou.ua/calendar/56530/"
+                target="_blank"&gt;&lt;img
+                src="https://s.dou.ua/CACHE/images/img/events/rW0bAmSwr8T8PwQel4-CbOdCD8FHBaOWBcLypo4rNiM/5cbbf6da9a6fc9ddcac09488fe59075f.png"
+                style="float: right; padding-left:
+                4px;"&gt;&lt;/a&gt;&lt;strong&gt;Дата:&lt;/strong&gt; 24 березня
+                (вівторок)&lt;br&gt;&lt;strong&gt;Місце:&lt;/strong&gt; онлайн&lt;/p&gt;
+                &lt;p&gt;&lt;strong&gt;Спроєктуйте власну &lt;a
+                href="https://robotdreams.cc/uk/course/2617-event-driven-architecture?utm_source=dou&amp;amp;utm_medium=partner&amp;amp;utm_campaign=iedemskyi_evdrarch&amp;amp;utm_content=200226"
+                target="_blank"&gt;Event-Driven Microservices Architecture&lt;/a&gt;&lt;/strong&gt;
+                &lt;a
+                href="https://robotdreams.cc/uk/course/2617-event-driven-architecture?utm_source=dou&amp;amp;utm_medium=partner&amp;amp;utm_campaign=iedemskyi_evdrarch&amp;amp;utm_content=200226"
+                target="_blank"&gt;⛓️&lt;/a&gt;&lt;/p&gt;
+
+                &lt;h3&gt;Про курс&lt;/h3&gt;
+
+                &lt;p&gt;Навчіться проєктувати й впроваджувати архітектуру, засновану на подіях,
+                і створюйте високопродуктивні системи🦾&lt;/p&gt;
+
+                &lt;p&gt;За 12 онлайн-занять ви опануєте &lt;strong&gt;ключові патерни EDA: CQRS,
+                Event Sourcing, Saga, Outbox&lt;/strong&gt; — і зможете проєктувати подієві системи
+                та ефективно керувати навантаженням. &lt;/p&gt;
+
+                &lt;p&gt;⚡️ В результаті додасте в портфоліо курсовий проєкт —
+                &lt;strong&gt;повноцінну Event-Driven систему (OMS)&lt;/strong&gt;: від архітектури
+                та подій — до масштабування, тестування та observability.&lt;/p&gt;
+
+                &lt;p&gt;&lt;a
+                href="https://robotdreams.cc/uk/course/2617-event-driven-architecture?utm_source=dou&amp;amp;utm_medium=partner&amp;amp;utm_campaign=iedemskyi_evdrarch&amp;amp;utm_content=200226"
+                target="_blank"&gt;&lt;img
+                src="https://s.dou.ua/storage-files/blobid0_GHslZSG.png"&gt;&lt;/a&gt;&lt;/p&gt;
+                &lt;h3&gt;Лектор&lt;/h3&gt;
+
+                &lt;p&gt;&lt;strong&gt;Михайло Єдемський&lt;/strong&gt;&lt;br&gt;Principal Software
+                Engineer у &lt;strong&gt;Microsoft&lt;/strong&gt;&lt;/p&gt;
+
+                &lt;ul&gt;&lt;li&gt;понад 16 років досвіду в розробці та підтримці програмного
+                забезпечення&lt;/li&gt;&lt;li&gt;проєктує асинхронні workflow на базі
+                &lt;strong&gt;Azure Functions, Queues / Service Bus&lt;/strong&gt; і подієву
+                взаємодію між сервісами без жорстких залежностей&lt;/li&gt;&lt;li&gt;працював
+                у компаніях &lt;strong&gt;Luxoft&lt;/strong&gt;
+                і &lt;strong&gt;Skype&lt;/strong&gt;&lt;/li&gt;&lt;li&gt;розробляє
+                &lt;strong&gt;інфраструктуру дистрибуції AI-моделей&lt;/strong&gt; для застосування
+                у відео- та аудіодзвінках&lt;/li&gt;&lt;li&gt;підтримує бекенд частини системи
+                розподіленого запуску автоматизованих тестів та збору результатів
+                тестування&lt;/li&gt;&lt;/ul&gt;
+
+                &lt;h3&gt;&lt;a
+                href="https://robotdreams.cc/uk/course/2617-event-driven-architecture?utm_source=dou&amp;amp;utm_medium=partner&amp;amp;utm_campaign=iedemskyi_evdrarch&amp;amp;utm_content=200226"
+                target="_blank"&gt;Детальна програма та реєстрація 🔗&lt;/a&gt;&lt;/h3&gt;
+                &lt;h3&gt;Цей курс для&lt;/h3&gt;
+
+                &lt;p&gt;&lt;strong&gt;SOFTWARE ENGINEER&lt;/strong&gt;&lt;br&gt;Навчитеся
+                впроваджувати EDA в наявні системи, проєктувати події та будувати стабільні
+                бізнес-процеси без глобальних транзакцій.&lt;/p&gt;
+
+                &lt;p&gt;&lt;strong&gt;DevOps / SRE&lt;/strong&gt;&lt;br&gt;Розберетесь,
+                як масштабувати й моніторити Event-Driven Microservices, працювати з backpressure,
+                consumer lag і observability.&lt;/p&gt;
+
+                &lt;p&gt;&lt;strong&gt;TECH LEADS / ENGINEERING
+                MANAGER&lt;/strong&gt;&lt;br&gt;Зрозумієте, як проєктувати взаємодію через події,
+                ефективно керувати складністю й будувати стійкі системи для команди.&lt;/p&gt;
+                &lt;p&gt;&lt;strong&gt;SOFTWARE / SOLUTIONS
+                ARCHITECTS&lt;/strong&gt;&lt;br&gt;Сформуєте чітку модель Event-Driven Architecture,
+                навчитеся використовувати події як контракти й забезпечувати контроль системи
+                в продакшені.&lt;/p&gt;</description>
+            <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Alisa Turbay</dc:creator>
+            <pubDate>Fri, 20 Feb 2026 20:07:49 +0200</pubDate>
+            <guid>https://dou.ua/calendar/56530/</guid>
+        </item>
+        <item>
+            <title>Kyiv cUAS Meetup — професійна зустріч виробників, розробників і користувачів
+                антидронних рішень, 5 березня, Київ</title>
+            <link>https://dou.ua/calendar/56527/</link>
+            <description>&lt;p&gt;&lt;a href="https://dou.ua/calendar/56527/"
+                target="_blank"&gt;&lt;img
+                src="https://s.dou.ua/CACHE/images/img/events/3_18_cUAS_Meetup_1920x1080/07f9374ea5039cda35eba3034882c647.png"
+                style="float: right; padding-left:
+                4px;"&gt;&lt;/a&gt;&lt;strong&gt;Дата:&lt;/strong&gt; 5 березня
+                (четвер)&lt;br&gt;&lt;strong&gt;Початок:&lt;/strong&gt;
+                17:00&lt;br&gt;&lt;strong&gt;Місце:&lt;/strong&gt; Київ&lt;/p&gt;
+                &lt;p&gt;&lt;strong&gt;5 березня о 17:00 у Києві&lt;/strong&gt; Moodro Innovation
+                Hub проводить перший &lt;strong&gt;Kyiv cUAS Meetup&lt;/strong&gt; — професійну
+                зустріч виробників, розробників і користувачів антидронних рішень.&lt;/p&gt;
+                &lt;p&gt;У програмі — практичні доповіді та обговорення від представників індустрії,
+                інноваційного середовища та військових, зокрема:&lt;/p&gt;
+
+                &lt;ul&gt;&lt;li&gt;Тренди на світовому ринку антидронних рішень — Павло Обод,
+                керівник Moodro Innovation Hub&lt;/li&gt;&lt;li&gt; Еволюція РЕБ за останні
+                &lt;nobr&gt;2–3 роки:&lt;/nobr&gt; від глушіння каналів управління до протидії
+                відеолінку — поточні підходи та подальші кроки — Олексій Кривопішин, СТО
+                Moodro&lt;/li&gt;&lt;li&gt;Пітчинги команд з власними технологічними рішеннями
+                &lt;/li&gt;&lt;/ul&gt;
+
+                &lt;p&gt;Також плануються виступи від військових та інших представників індустрії.
+                Говоритимемо про актуальні виклики РЕР та РЕБ, трансформацію технологічних підходів,
+                інтеграцію рішень у комплексні системи та практичні кейси використання в бойових
+                умовах.&lt;/p&gt;
+
+                &lt;p&gt;Мета зустрічі — зібрати в одному просторі виробників і користувачів
+                антидронних рішень, щоб обмінятися досвідом, краще зрозуміти потреби військових
+                і знайти точки для ефективної співпраці.&lt;/p&gt;
+
+                &lt;p&gt;👉 Реєстрація (попередній відбір):&lt;br&gt;&lt;a
+                href="https://tally.so/r/LZWAA2"
+                target="_blank"&gt;tally.so/r/LZWAA2&lt;/a&gt;&lt;/p&gt;
+
+                &lt;p&gt;&lt;em&gt;Захід проходитиме у закритому форматі: участь безкоштовна, але
+                лише за запрошенням і після попереднього відбору з міркувань безпеки. Точну локацію
+                буде повідомлено підтвердженим учасникам за добу до події.&lt;/em&gt;&lt;/p&gt;</description>
+            <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Ірина Луцак</dc:creator>
+            <pubDate>Fri, 20 Feb 2026 19:59:30 +0200</pubDate>
+            <guid>https://dou.ua/calendar/56527/</guid>
+        </item>
+        <item>
+            <title>Challenger Bootcamp: USA Market Meetup, 6 березня, Київ</title>
+            <link>https://dou.ua/calendar/56528/</link>
+            <description>&lt;p&gt;&lt;a href="https://dou.ua/calendar/56528/"
+                target="_blank"&gt;&lt;img
+                src="https://s.dou.ua/CACHE/images/img/events/2_1_d3icL0C/6aea85ab668d46a098598905f32d2eec.png"
+                style="float: right; padding-left:
+                4px;"&gt;&lt;/a&gt;&lt;strong&gt;Дата:&lt;/strong&gt; 6 березня
+                (п’ятниця)&lt;br&gt;&lt;strong&gt;Початок:&lt;/strong&gt;
+                17:00&lt;br&gt;&lt;strong&gt;Місце:&lt;/strong&gt; Київ, America House
+                Kyiv&lt;/p&gt;
+
+                &lt;p&gt;&lt;strong&gt;Challenger Bootcamp: USA Market Meetup:&lt;/strong&gt; подія
+                для стартапів, які хочуть вийти на ринок США🇺🇲👥&lt;/p&gt;
+
+                &lt;p&gt;Мітап відбудеться у межах програми &lt;strong&gt;Challenger Bootcamp: USA
+                Market Access&lt;/strong&gt; і об’єднає 80+ учасників. &lt;/p&gt;
+                &lt;p&gt;У програмі — практичні інсайти від компаній, що вже працюють на ринку США,
+                відкрите обговорення реальних кейсів та нетворкінг.&lt;/p&gt;
+
+                &lt;p&gt;🔎 Говоритимемо про:&lt;/p&gt;
+
+                &lt;p&gt;🔸перші кроки на ринку США;&lt;/p&gt;
+
+                &lt;p&gt;🔸типові помилки українських фаундерів;&lt;/p&gt;
+
+                &lt;p&gt;🔸побудову продажів і перші угоди;&lt;/p&gt;
+
+                &lt;p&gt;🔸роботу з партнерами та інвесторами;&lt;/p&gt;
+
+                &lt;p&gt;🔸рішення, які дали результат — і ті, що не виправдали очікувань;&lt;/p&gt;
+                &lt;p&gt;🔸факапи, які траплялись на цьому шляху.&lt;/p&gt;
+                &lt;p&gt;📍&lt;strong&gt;America House Kyiv&lt;/strong&gt; (вул. Миколи Пимоненка,
+                6)&lt;/p&gt;
+
+                &lt;p&gt;🕔&lt;strong&gt; 6 березня,
+                &lt;nobr&gt;17:00-20:00&lt;/nobr&gt;&lt;/strong&gt;&lt;/p&gt;
+
+                &lt;p&gt;👉 Для участі офлайн, або онлайн заповніть форму:&lt;a
+                href="https://forms.gle/phNrbRRPYMJje6Te7" target="_blank"&gt;
+                https://forms.gle/phNrbRRPYMJje6Te7&lt;/a&gt;&lt;/p&gt;
+
+                &lt;p&gt;Реєстрація триває до 4 березня.&lt;/p&gt;</description>
+            <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Дарина Бубнюк</dc:creator>
+            <pubDate>Fri, 20 Feb 2026 19:54:38 +0200</pubDate>
+            <guid>https://dou.ua/calendar/56528/</guid>
+        </item>
+        <item>
+            <title>Воркшоп «Стійкість команд під час війни», 25 лютого</title>
+            <link>https://dou.ua/calendar/56526/</link>
+            <description>&lt;p&gt;&lt;a href="https://dou.ua/calendar/56526/"
+                target="_blank"&gt;&lt;img
+                src="https://s.dou.ua/CACHE/images/img/events/Web_article_16_9_1/483b5df6022d65e07ee3fe3840f61c7f.png"
+                style="float: right; padding-left:
+                4px;"&gt;&lt;/a&gt;&lt;strong&gt;Дата:&lt;/strong&gt; 25 лютого
+                (середа)&lt;br&gt;&lt;strong&gt;Початок:&lt;/strong&gt;
+                16:00&lt;br&gt;&lt;strong&gt;Місце:&lt;/strong&gt; Онлайн&lt;/p&gt;
+
+                &lt;p&gt;Мікро-, малі та середні підприємства на сході України працюють
+                в екстремальних умовах уже четвертий рік повномасштабної війни. Безпекові ризики,
+                перебої з електрикою, нестача кадрів, вигорання команд — це щоденна реальність тисяч
+                підприємців у Харківській, Сумській, Дніпропетровській та Запорізькій
+                областях.&lt;/p&gt;
+
+                &lt;p&gt;Водночас в Україні існує розгалужена система підтримки бізнесу: державні
+                програми, донорські ініціативи, грантові можливості. Але підприємці
+                не використовують її повноцінно. Не тому що підтримки немає, а тому що інформація
+                розпорошена, процедури заплутані, а часу та сил розбиратися — немає.&lt;/p&gt;
+                &lt;p&gt;Саме тому Kharkiv IT Cluster запускає
+                &lt;strong&gt;BusinessLink&lt;/strong&gt; — проєкт-навігатор, який з’єднує бізнес
+                із системою підтримки.&lt;/p&gt;
+
+                &lt;h2&gt;&lt;strong&gt;Що таке BusinessLink?&lt;/strong&gt;&lt;/h2&gt;
+                &lt;p&gt;BusinessLink — це не ще одна програма допомоги. Це провідник, який
+                допомагає підприємцям знайти та скористатися тим, що вже існує. Замість десятків
+                сайтів і програм — єдина точка входу. Замість самостійного пошуку — діагностика
+                потреб. Замість одноразової консультації — супровід до результату.&lt;/p&gt;
+                &lt;p&gt;Ключовий принцип проєкту: &lt;strong&gt;не дублювати — маршрутизувати
+                та доповнювати&lt;/strong&gt;. Ми не конкуруємо з існуючими програмами. Ми робимо
+                їх доступнішими.&lt;/p&gt;
+
+                &lt;h2&gt;&lt;strong&gt;Для кого буде корисним проєкт?&lt;/strong&gt; &lt;/h2&gt;
+                &lt;p&gt;Власники та керівники мікро-, малих і середніх підприємств у прифронтових
+                громадах — ФОПи, малі виробництва, сервісні бізнеси, локальні компанії, які
+                утримують робочі місця. Окрему увагу проєкт приділяє жінкам-підприємницям,
+                підприємцям-ВПО, ветеранам та ветеранкам, які розпочинають бізнес, а також
+                релокованим компаніям.&lt;/p&gt;
+
+                &lt;h2&gt;&lt;strong&gt;Як BusinessLink працюватиме?&lt;/strong&gt;&lt;/h2&gt;
+                &lt;p&gt;Проєкт діє у чотирьох областях — Харківській, Сумській, Дніпропетровській
+                та Запорізькій — і поєднує три напрями:&lt;/p&gt;
+                &lt;ul&gt;&lt;li&gt;&lt;strong&gt;Навігація.&lt;/strong&gt; Допомагаємо
+                зорієнтуватися в екосистемі підтримки бізнесу: знаходити релевантні програми,
+                гранти, сервіси від держави, донорів
+                та партнерів.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Практичні
+                інструменти.&lt;/strong&gt; Проводимо воркшопи, тренінги та консультації, які дають
+                конкретні знання й навички — від роботи з Prozorro до оцінки
+                збитків.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Супровід.&lt;/strong&gt; Не залишаємо
+                після першої консультації — допомагаємо пройти шлях від запиту до конкретного
+                результату.&lt;/li&gt;&lt;/ul&gt;
+
+                &lt;h2&gt;&lt;strong&gt;Перша можливість: воркшоп «Стійкість команд під час
+                війни»&lt;/strong&gt;&lt;/h2&gt;
+
+                &lt;p&gt;Стійкість бізнесу починається зі стійкості людей. Тому перший захід
+                BusinessLink ми присвячуємо темі, яка сьогодні актуальна для кожного керівника:
+                як зберегти команду в умовах тривалої невизначеності.&lt;/p&gt;
+                &lt;p&gt;&lt;strong&gt;25 лютого, 16:00&lt;/strong&gt; запрошуємо на онлайн-воркшоп
+                «Стійкість команд під час війни». Це 1,5 години практичних знань, які HR-фахівці
+                та керівники зможуть одразу застосувати у своїй роботі.&lt;/p&gt;
+                &lt;h3&gt;&lt;strong&gt;Про що говоритимемо?&lt;/strong&gt;&lt;/h3&gt;
+                &lt;ul&gt;&lt;li&gt;&lt;strong&gt;Різний досвід війни&lt;/strong&gt; — особливості
+                бойового досвіду та інших досвідів війни, можливі фізичні та емоційні прояви, які
+                виникають як наслідок, і способи
+                реагування.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Травмочутлива
+                комунікація&lt;/strong&gt; — основні засади та способи їх реалізації в командах
+                і процесах.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Розвиток внутрішньої
+                стійкості&lt;/strong&gt; — як працювати в довготривалу перспективу в умовах
+                сьогодення. Резильєнтність на противагу стресостійкості —
+                що це та як працює.&lt;/li&gt;&lt;/ul&gt;
+                &lt;h3&gt;&lt;strong&gt;Спікерка&lt;/strong&gt;&lt;/h3&gt;
+                &lt;p&gt;&lt;strong&gt;Катерина Криленко&lt;/strong&gt; — кризова психологиня,
+                виконавча директорка Громадської організації «Психологічна підтримка та реабілітація
+                «Вільний Вибір». Катерина працює з психологічною стабілізацією команд, тривожністю,
+                емоційним виснаженням і підтримкою лідерів у турбулентних умовах.&lt;/p&gt;
+                &lt;p&gt;&lt;strong&gt;Зареєструватися:&lt;/strong&gt; &lt;a
+                href="https://forms.gle/U9S23KJGDoz1LDJk9"
+                target="_blank"&gt;forms.gle/U9S23KJGDoz1LDJk9&lt;/a&gt;&lt;/p&gt;</description>
+            <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Марія Бєляєва</dc:creator>
+            <pubDate>Fri, 20 Feb 2026 15:21:59 +0200</pubDate>
+            <guid>https://dou.ua/calendar/56526/</guid>
+        </item>
+        <item>
+            <title>Вебінар "AI в роботі IT-фахівця: як перевіряти ідеї, а не вірити в магію", 24
+                лютого</title>
+            <link>https://dou.ua/calendar/56525/</link>
+            <description>&lt;p&gt;&lt;a href="https://dou.ua/calendar/56525/"
+                target="_blank"&gt;&lt;img
+                src="https://s.dou.ua/CACHE/images/img/events/ai-24-02-26/8b488c89489fa593304bb5892fb9f19d.png"
+                style="float: right; padding-left:
+                4px;"&gt;&lt;/a&gt;&lt;strong&gt;Дата:&lt;/strong&gt; 24 лютого
+                (вівторок)&lt;br&gt;&lt;strong&gt;Початок:&lt;/strong&gt;
+                16:00&lt;br&gt;&lt;strong&gt;Місце:&lt;/strong&gt; Online&lt;/p&gt;
+                &lt;p&gt;На вебінарі покажемо, як використовувати AI не як «магію», а як інструмент
+                для швидкої перевірки ідей.&lt;/p&gt;
+
+                &lt;p&gt;&lt;strong&gt;Про що поговоримо:&lt;/strong&gt;&lt;/p&gt;
+                &lt;p&gt;— як правильно формулювати задачу для LLM&lt;br&gt;— чому контекст визначає
+                якість відповіді&lt;br&gt;— як перейти від відповіді моделі до робочого
+                прототипу&lt;br&gt;— практичний приклад на консольній .NET
+                аплікації&lt;br&gt;— де AI реально економить час, а де створює ілюзію
+                розуміння&lt;/p&gt;
+
+                &lt;p&gt;Фокус — системний підхід, тестування і мінімальний прототип замість сліпої
+                довіри до результату.&lt;/p&gt;
+
+                &lt;p&gt;&lt;strong&gt;Не пропустіть можливість поставити питання
+                онлайн!&lt;/strong&gt;&lt;/p&gt;
+
+                &lt;p&gt;Коли: 24/02 о 16:00 &lt;/p&gt;
+
+                &lt;p&gt;Де: онлайн&lt;/p&gt;
+
+                &lt;p&gt;Спікер: &lt;strong&gt;Roman Tymokhov, AI agent systems
+                researcher&lt;/strong&gt;&lt;/p&gt;
+
+                &lt;p&gt;Реєстрація: &lt;a href="https://i.web-academy.ua/hm0O"
+                target="_blank"&gt;i.web-academy.ua/hm0O&lt;/a&gt;&lt;/p&gt;</description>
+            <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Admins WA</dc:creator>
+            <pubDate>Fri, 20 Feb 2026 14:52:18 +0200</pubDate>
+            <guid>https://dou.ua/calendar/56525/</guid>
+        </item>
+        <item>
+            <title>KSE seminar on the topic: «Mental health during the war», 24 February</title>
+            <link>https://dou.ua/calendar/56524/</link>
+            <description>&lt;p&gt;&lt;a href="https://dou.ua/calendar/56524/"
+                target="_blank"&gt;&lt;img
+                src="https://s.dou.ua/CACHE/images/img/events/634739831_1329301159223361_6390760672488245076_n/884966a98e5dd07dd7ed43a0dd0c832c.png"
+                style="float: right; padding-left:
+                4px;"&gt;&lt;/a&gt;&lt;strong&gt;Date:&lt;/strong&gt; 24 February
+                (Tuesday)&lt;br&gt;&lt;strong&gt;Time:&lt;/strong&gt;
+                13:00&lt;br&gt;&lt;strong&gt;Place:&lt;/strong&gt; Online&lt;/p&gt;
+
+                &lt;p&gt;War reshapes daily life. What does it do to mental health at the population
+                level? Which factors actually drive resilience? How do we measure mental health
+                at scale, how exposure to violence relates to psychological outcomes, income,
+                employment, and material security?&lt;br&gt;To talk on these questions we invite you
+                to attend a KSE seminar from the Economic Seminar Series on the topic: “Mental
+                health during the war”.&lt;/p&gt;
+
+                &lt;p&gt;Speaker: Maksym Obrizan—Associate Professor of Economics (KSE), Swedish
+                Distinguished Professor.&lt;/p&gt;
+
+                &lt;p&gt;A nationally representative survey of 2,000 Ukrainians from May 2025
+                reveals substantial war-related mental health impacts: 33.5% of respondents suffer
+                from probable anxiety and 28.2% report probable depression. These prevalence rates
+                are nearly six times higher than pre‑war estimates.&lt;br&gt;Preliminary analysis
+                indicates a compelling result: war-related violence is so widespread that it is not
+                associated with worsening mental health. Economic well-being, on the other hand,
+                is found to be a robust predictor of mental health resilience, suggesting that
+                material security may serve as a critical protective factor against psychological
+                distress in conflict-affected populations.&lt;/p&gt;
+
+                &lt;p&gt;When: February 24, 13:00&lt;br&gt;Where: Online via Zoom&lt;br&gt;Join:
+                &lt;a
+                href="https://us04web.zoom.us/j/77204329808?pwd=HSPkxrpCk6dL1K7m7u1rHyfbOT5SDJ.1&amp;amp;jst=2#success"
+                target="_blank"&gt;us04web.zoom.us/...​yfbOT5SDJ.1&amp;amp;jst=2#success&lt;/a&gt;&lt;br&gt;Please
+                send any questions to: &lt;a
+                href="https://www.facebook.com/events/1783909898950779/"
+                target="_blank"&gt;www.facebook.com/events/1783909898950779&lt;/a&gt;&lt;/p&gt;</description>
+            <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Vika Parkhomenko</dc:creator>
+            <pubDate>Fri, 20 Feb 2026 12:42:15 +0200</pubDate>
+            <guid>https://dou.ua/calendar/56524/</guid>
+        </item>
+        <item>
+            <title>Highload fwdays'26 conference, 6 червня, Київ</title>
+            <link>https://dou.ua/calendar/56522/</link>
+            <description>&lt;p&gt;&lt;a href="https://dou.ua/calendar/56522/"
+                target="_blank"&gt;&lt;img
+                src="https://s.dou.ua/CACHE/images/img/events/main_16x9_x5aHD25/bd5a99fe2235cea928ef9b39b1469d27.png"
+                style="float: right; padding-left:
+                4px;"&gt;&lt;/a&gt;&lt;strong&gt;Дата:&lt;/strong&gt; 6 червня
+                (субота)&lt;br&gt;&lt;strong&gt;Місце:&lt;/strong&gt; Київ та Online&lt;/p&gt;
+                &lt;p&gt;&lt;strong&gt;Highload fwdays’26&lt;/strong&gt; — це конференція,
+                присвячена практичним питанням розробки високонавантажених систем, архітектури,
+                масштабування, роботи з базами даних, DevOps у контексті highload-рішень.&lt;/p&gt;
+                &lt;p&gt;&lt;strong&gt;Серед тем конференції&lt;/strong&gt;:&lt;/p&gt;
+                &lt;p&gt;👉&lt;em&gt;Foundational Concepts and Architectural
+                Patterns&lt;/em&gt;&lt;br&gt;Fundamentals of Highly Loaded Systems, Architectural
+                Patterns for Scalability.&lt;/p&gt;
+
+                &lt;p&gt;👉&lt;em&gt;Operational Strategies and Database
+                Management&lt;/em&gt;&lt;br&gt;Database Scalability and Optimization,
+                Containerization and Orchestration, DevOps and Automation in Highly Loaded
+                Systems.&lt;/p&gt;
+
+                &lt;p&gt;👉&lt;em&gt;Performance Optimization and Traffic
+                Management&lt;/em&gt;&lt;br&gt;Load Testing Fundamentals, Load Balancing and Traffic
+                Management, Performance Tuning and Optimization, Monitoring and
+                Observability.&lt;/p&gt;
+
+                &lt;p&gt;👉&lt;em&gt;AI and ML, Security, and Recovery&lt;/em&gt;&lt;br&gt;Security
+                Considerations for Highly Loaded Systems, Disaster Recovery and High Availability,
+                Artificial Intelligence and Machine Learning in Monitoring and
+                Optimization.&lt;/p&gt;
+
+                &lt;p&gt;Для новин, спілкування та запитань використовуємо 👉 &lt;a
+                href="https://t.me/+QwET62cuthlIUPjx" target="_blank"&gt;&lt;strong&gt;Telegram
+                канал&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
+
+                &lt;p&gt;&lt;strong&gt;🎙 Шукаємо доповіді:&lt;/strong&gt;&lt;br&gt;Ми шукаємо
+                практичні інформативні доповіді, а також спікерів у Києві для офлайн-частини. Якщо
+                ви хочете виступити та поділитися своїм досвідом, заповніть форму до 4 травня. 👉
+                &lt;a
+                href="https://bit.ly/46YcdNS?fbclid=IwZXh0bgNhZW0CMTAAYnJpZBEyU2xnNERERzBuRUI2alVuRHNydGMGYXBwX2lkEDIyMjAzOTE3ODgyMDA4OTIAAR6VJ6nK_XKnfOqzIAD8K03zli5PpHEv5QTkt8AEA77ZskZM0m5V2NIk_vgkhA_aem_tWXmaaUOSMS9jIzjrJl8lA"
+                target="_blank"&gt;https://bit.ly/46YcdNS&lt;/a&gt;&lt;/p&gt;
+
+                &lt;p&gt;📅 &lt;strong&gt;День конференції&lt;/strong&gt; — 6 червня
+                (субота)&lt;br&gt;🌍 &lt;strong&gt;Offline (Kyiv)
+                &amp;amp; Online&lt;/strong&gt;&lt;br&gt;🗣 Конференція проходитиме англійською
+                та українською мовами з доповідями від локальних та міжнародних спікерів.&lt;/p&gt;
+                &lt;p&gt;🎟 &lt;strong&gt;Існує 2 типи квитків:&lt;/strong&gt;&lt;br&gt;Online
+                Ticket (онлайн-доступ до виступів конференції під час трансляції 6 червня, всі
+                записи виступів, Q&amp;amp;Aі з спікерами, чат для нетворкінгу, сертифікат про
+                участь)&lt;br&gt;Full Ticket (всі опції з Online Ticket + Offline-участь у заході
+                6 червня (у Києві), обід та кава-брейки, живий нетворкінг)&lt;/p&gt;
+                &lt;p&gt;&lt;span style="display:block; text-align:center;"&gt;&lt;a
+                href="https://bit.ly/3OycqB5" target="_blank"&gt;Дізнатись більше та придбати
+                квитоку&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;
+
+                &lt;p&gt;Спеціально для читачів DOU є &lt;strong&gt;знижка 5%&lt;/strong&gt;
+                за промо-кодом: &lt;strong&gt;Fwdays26&lt;/strong&gt;&lt;/p&gt;
+                &lt;p&gt;Join us:&lt;br&gt;&lt;a href="https://twitter.com/fwdays"
+                target="_blank"&gt;Twitter&lt;/a&gt;&lt;br&gt;&lt;a
+                href="https://www.instagram.com/fwdays/"
+                target="_blank"&gt;Instagram&lt;/a&gt;&lt;br&gt;&lt;a
+                href="https://www.youtube.com/user/fwdays"
+                target="_blank"&gt;YouTube&lt;/a&gt;&lt;/p&gt;</description>
+            <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Rostislav Petrenko</dc:creator>
+            <pubDate>Fri, 20 Feb 2026 12:04:48 +0200</pubDate>
+            <guid>https://dou.ua/calendar/56522/</guid>
+        </item>
+        <item>
+            <title>R&amp;amp;D Talk #29 Modern Web AI: From Stack to Scale, 25 March</title>
+            <link>https://dou.ua/calendar/56523/</link>
+            <description>&lt;p&gt;&lt;a href="https://dou.ua/calendar/56523/"
+                target="_blank"&gt;&lt;img
+                src="https://s.dou.ua/CACHE/images/img/events/RD_Talk_29_March_25/23334fcdf3d5e4def88f4ff33b8be154.png"
+                style="float: right; padding-left:
+                4px;"&gt;&lt;/a&gt;&lt;strong&gt;Date:&lt;/strong&gt; 25 March
+                (Wednesday)&lt;br&gt;&lt;strong&gt;Time:&lt;/strong&gt;
+                17:00&lt;br&gt;&lt;strong&gt;Place:&lt;/strong&gt; Online&lt;/p&gt;
+                &lt;p&gt;&lt;strong&gt;What happens when AI runs where users already are — directly
+                in the browser?&lt;/strong&gt; &lt;br&gt;This session explores the rise of Web
+                AI with a &lt;strong&gt;Google engineer&lt;/strong&gt; who helped bring AI tools
+                to millions of developers worldwide. We’ll look past the hype and focus on how
+                today’s Web AI stacks make intelligent, user-centric experiences practical and
+                scalable. &lt;/p&gt;
+
+                &lt;p&gt;&lt;strong&gt;What you will learn:&lt;/strong&gt;&lt;/p&gt;
+                &lt;ul&gt;&lt;li&gt;The current Web AI landscape and why it’s finally ready for
+                prime time&lt;/li&gt;&lt;/ul&gt;
+
+                &lt;ul&gt;&lt;li&gt;How MediaPipe enables real-time AI experiences directly in the
+                browser&lt;/li&gt;&lt;/ul&gt;
+
+                &lt;ul&gt;&lt;li&gt;What LiteRT and modern inference stacks mean for performance and
+                scalability&lt;/li&gt;&lt;/ul&gt;
+
+                &lt;ul&gt;&lt;li&gt;Real use cases where Web AI is already delivering measurable
+                value&lt;/li&gt;&lt;/ul&gt;
+                &lt;p&gt;&lt;strong&gt;Speakers:&lt;/strong&gt;&lt;br&gt;&lt;strong&gt;Damyr
+                Hadiiev, Principal R&amp;amp;D Engineer at SoftServe,&lt;/strong&gt; leads
+                high-impact R&amp;amp;D teams building scientific applications in AI, life sciences,
+                computer vision, quantum computing, and physical simulations. With a theoretical
+                physics background and 10+ years across research, engineering, and enterprise
+                consulting, he focuses on turning deep technical insights into scalable, real-world
+                solutions. &lt;/p&gt;
+
+                &lt;p&gt;&lt;strong&gt;Jason Mayes, Web AI Lead and Creative Technologist
+                at Google,&lt;/strong&gt; with 20+ years of engineering experience, works at the
+                intersection of AI, the Web, research, and storytelling. Creator of world-first
+                AI prototypes adopted by millions and work that grew into products like Cloud AutoML
+                Vision.Coined “Web AI” in 2022, promoting privacy-preserving real-time
+                AI in JavaScript (1B+ annual downloads).&lt;/p&gt;
+
+                &lt;p&gt;📅 March 25, 5:00 PM EET&lt;br&gt;📍 Оnline&lt;br&gt;🗣 Language:
+                English&lt;/p&gt;
+
+                &lt;p&gt;&lt;strong&gt;Register &lt;a href="https://hubs.ly/Q043Y6kJ0"
+                target="_blank"&gt;hubs.ly/Q043Y6kJ0&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+                &lt;p&gt;&lt;a
+                href="https://www.youtube.com/playlist?list=PLfSceFQVdF-_gS8uvT5QIv7T-6X5dGM9a&amp;amp;utm_campaign=AENVT_RnD_GL_Talks&amp;amp;utm_source=hs_email&amp;amp;utm_medium=email&amp;amp;_hsenc=p2ANqtz-9LC9A7YMz94bN7Abkm0Mpoc3pUtwvr3A8PBk42LPIzerowh07Ni1YNPmJ9Ln1eAB-ZlOFq"
+                target="_blank"&gt;R&amp;amp;D Talk&lt;/a&gt; is an online meet-up with SoftServe
+                R&amp;amp;D specialists sharing their insights about the latest technologies and
+                innovative trends.&lt;/p&gt;</description>
+            <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Ольга Лепетенко</dc:creator>
+            <pubDate>Fri, 20 Feb 2026 11:50:08 +0200</pubDate>
+            <guid>https://dou.ua/calendar/56523/</guid>
+        </item>
+        <item>
+            <title>Форум «Захист обʼєктів інфраструктури та промисловості», 3 березня, Київ</title>
+            <link>https://dou.ua/calendar/56514/</link>
+            <description>&lt;p&gt;&lt;a href="https://dou.ua/calendar/56514/"
+                target="_blank"&gt;&lt;img
+                src="https://s.dou.ua/CACHE/images/img/events/event/7c7c76bea6fa2b0e7b4df92fe40f8557.png"
+                style="float: right; padding-left:
+                4px;"&gt;&lt;/a&gt;&lt;strong&gt;Дата:&lt;/strong&gt; 3 березня
+                (вівторок)&lt;br&gt;&lt;strong&gt;Місце:&lt;/strong&gt; Київ&lt;/p&gt;
+
+                &lt;p&gt;Від початку повномасштабного вторгнення кожне підприємство України
+                перетворилось на мішень для ворога. Вони цілять не лише у військові чи енергетичні
+                обʼєкти. Фармацевтичні компанії, склади, розподільчі центри, типографії, ресторани,
+                поштові відділення... Вони хочуть нас зламати, зруйнувавши нашу промисловість,
+                бізнес, звичне життя...&lt;/p&gt;
+
+                &lt;p&gt;Наша задача — не дозволити це зробити!&lt;/p&gt;
+
+                &lt;p&gt;За останні 4 роки ми навчились захищатись і працювати у будь-яких умовах,
+                накопичивши цілий спектр продуктивних рішень. Настав час обмінятись досвідом
+                та перетворити індивідуальні рішення на потужну програму захисту для кожного
+                українського підприємства.&lt;/p&gt;
+
+                &lt;p&gt;Запрошуємо до продуктивного діалогу в рамках форуму «Захист обʼєктів
+                інфраструктури та промисловості», який об’єднає панельні дискусії по наступним
+                темам:&lt;/p&gt;
+
+                &lt;p&gt;Інтегрований захист об’єктів&lt;br&gt;Захист технологічних процесів
+                та персоналу&lt;br&gt;Протидія БПЛА&lt;br&gt;Стійкість
+                та відновлення&lt;br&gt;Ознайомитись з готовими рішеннями для всіх рівнів захисту
+                від провідних виробників та обговорити можливості їхнього застосування саме
+                на своєму підприємстві учасники події зможуть в виставковій зоні форуму.&lt;/p&gt;
+                &lt;p&gt;Запрошуємо керівників державних, комунальних і приватних підприємств усіх
+                секторів економіки: енергетика, фармацевтика, агро- та харчова промисловість,
+                ІТ та зв’язок, безпека, ритейл, логістика, транспорт, легка промисловість, розмаїті
+                послуги.&lt;/p&gt;
+
+                &lt;p&gt;📌 ЗАПЛАНУЙТЕ: 03/03/2026 — Форум «Захист обʼєктів інфраструктури
+                та промисловості» і купуйте КВИТКИ за посиланням: &lt;a
+                href="https://fsec26.ticketforevent.com/"
+                target="_blank"&gt;fsec26.ticketforevent.com&lt;/a&gt;&lt;/p&gt;
+
+                &lt;p&gt;📍 Локація: Київ, Україна&lt;br&gt;📅 Дата: 3 березня, 2026&lt;/p&gt;</description>
+            <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Vika Parkhomenko</dc:creator>
+            <pubDate>Fri, 20 Feb 2026 11:47:40 +0200</pubDate>
+            <guid>https://dou.ua/calendar/56514/</guid>
+        </item>
+        <item>
+            <title>Лекція «Бренд навчального курсу: Від маскота пташки Kagu до цілісного розуміння
+                операційної системи», 23 лютого, Київ</title>
+            <link>https://dou.ua/calendar/56521/</link>
+            <description>&lt;p&gt;&lt;a href="https://dou.ua/calendar/56521/"
+                target="_blank"&gt;&lt;img
+                src="https://s.dou.ua/CACHE/images/img/events/634698690_1329223625897781_570335401623061475_n/8919d245d0c21db54d34de38560cb5c6.png"
+                style="float: right; padding-left:
+                4px;"&gt;&lt;/a&gt;&lt;strong&gt;Дата:&lt;/strong&gt; 23 лютого
+                (понеділок)&lt;br&gt;&lt;strong&gt;Початок:&lt;/strong&gt;
+                18:00&lt;br&gt;&lt;strong&gt;Місце:&lt;/strong&gt; Київ&lt;/p&gt;
+
+                &lt;p&gt;Чи може сюжет про ресторан допомогти у вивченні kernel-level
+                програмування?&lt;br&gt;Як перетворити складний технічний стек на зрозумілу історію,
+                яка залучає, а не виснажує студентів?&lt;br&gt;На ці питання відповість Володимир
+                Скочко — викладач факультету компʼютерних наук Київської школи економіки — на третій
+                лекції з серії ЛекторШеф на тему: «Бренд навчального курсу: Від маскота пташки Kagu
+                до цілісного розуміння операційної системи».&lt;/p&gt;
+
+                &lt;p&gt;Під час лекції ми:&lt;br&gt;розберемо практичний кейс: як айдентика, сюжет
+                і маскот пташки Kagu стали інструментом пояснення операційних систем — від базових
+                концепцій до складних тем;&lt;br&gt;поговоримо про ефект занурення, функціональний
+                дизайн матеріалів і те, як візуальна логіка допомагає студенту не загубитися
+                у структурі курсу;&lt;br&gt;окремо — про інструментарій викладача: як досягати
+                професійного вигляду матеріалів (Typst) і генерувати ідеї (NotebookLM) без зайвих
+                витрат часу.&lt;/p&gt;
+
+                &lt;p&gt;Зустріч буде корисною для викладачів і всіх, хто хоче «оживити» свій курс
+                та отримати чіткий алгоритм створення сюжетного навчання.&lt;/p&gt;
+
+                &lt;p&gt;Дата та час: 23 лютого, 18:00&lt;br&gt;Місце: KSE Dragon Capital Building,
+                [4.16] Classroom&lt;/p&gt;
+
+                &lt;p&gt;Реєстрація: за посиланням: &lt;a
+                href="https://docs.google.com/forms/d/e/1FAIpQLSd3wcE_fCjhvbjIaSPaydacZdayLV9SQnxrkgkKTbOJ8s0PPg/viewform"
+                target="_blank"&gt;docs.google.com/...​xrkgkKTbOJ8s0PPg/viewform&lt;/a&gt;&lt;br&gt;З питаннями
+                звертатися: &lt;a href="https://www.facebook.com/events/1214149887094610/"
+                target="_blank"&gt;www.facebook.com/events/1214149887094610&lt;/a&gt;&lt;/p&gt;</description>
+            <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Vika Parkhomenko</dc:creator>
+            <pubDate>Fri, 20 Feb 2026 11:44:21 +0200</pubDate>
+            <guid>https://dou.ua/calendar/56521/</guid>
+        </item>
+    </channel>
+</rss>

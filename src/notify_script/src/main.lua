@@ -1,16 +1,17 @@
-local http_request = require "http.request"
+-- We need it for searching for my modules
+-- Investigate it a little bit more
+package.path = package.path .. ';./src/?.lua'
+
 local feedparser = require "feedparser"
+
+local fetch_data_module = require("fetch_data_module");
+local fetch_data = fetch_data_module.fetch_data;
 
 local calendar_rss_feed_link = "https://dou.ua/calendar/feed/"
 
 print("🚀 start fetching the RSS feed... from " .. calendar_rss_feed_link)
 
-local headers, stream = assert(http_request.new_from_uri(calendar_rss_feed_link):go())
-local body = assert(stream:get_body_as_string())
-
-if headers:get ":status" ~= "200" then
-    error(body)
-end
+local body = fetch_data(calendar_rss_feed_link);
 
 print("✅ Data fetched from: " .. calendar_rss_feed_link)
 print("🔄 Start parsing data")

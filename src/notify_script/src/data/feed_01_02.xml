@@ -1,0 +1,370 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Календар DOU</title>
+        <link>https://dou.ua/calendar/</link>
+        <description>Календар IT-подій на DOU</description>
+        <atom:link href="https://dou.ua/calendar/feed/" rel="self" />
+        <language>uk</language>
+        <lastBuildDate>Sat, 28 Feb 2026 23:00:23 +0200</lastBuildDate>
+        <item>
+            <title>ІТ для ветеранів — безкоштовне навчання для ветеранів, 23 березня</title>
+            <link>https://dou.ua/calendar/56616/</link>
+            <description>&lt;p&gt;&lt;a href="https://dou.ua/calendar/56616/"
+                target="_blank"&gt;&lt;img
+                src="https://s.dou.ua/CACHE/images/img/events/photo_2026-02-26_15-29-49/b15f6c59f68fdbb2d45558f0b51f097d.png"
+                style="float: right; padding-left:
+                4px;"&gt;&lt;/a&gt;&lt;strong&gt;Дата:&lt;/strong&gt; 23 березня
+                (понеділок)&lt;br&gt;&lt;strong&gt;Місце:&lt;/strong&gt; онлайн&lt;/p&gt;
+                &lt;p&gt;🇺🇦 ІТ для ветеранів — безкоштовне навчання для ветеранів&lt;/p&gt;
+                &lt;p&gt;Запрошуємо українських ветеранів приєднатись до навчальної програми &lt;a
+                href="https://campus.epam.ua/ua/training/5596" target="_blank"&gt;«ІТ для
+                Ветеранів»&lt;/a&gt;. Навіть якщо це не про тебе, але ти знаєш ветеранів, для яких
+                це може бути актуально, — поділись із ними цим дописом 🙏🏻&lt;/p&gt;
+
+                &lt;p&gt;🎯 Мета проєкту: дати необхідні знання та навички, щоб допомогти опанувати
+                нову ІТ-професію, незалежно від попереднього досвіду, освіти, віку
+                чи локації.&lt;/p&gt;
+
+                &lt;p&gt;🔗 Реєстрація: &lt;a href="https://campus.epam.ua/ua/training/5596"
+                target="_blank"&gt;campus.epam.ua/ua/training/5596&lt;/a&gt;&lt;/p&gt;
+                &lt;p&gt;Організаційні деталі:&lt;br&gt;✔️ Початок навчання: 23 березня
+                2025.&lt;br&gt;✔️ Кількість учасників: максимум 80 (реєстрація відкрита
+                до закінчення місць у групі).&lt;br&gt;✔️ Мова навчання: 🇺🇦
+                українська.&lt;br&gt;✔️ Вартість: безкоштовно на всіх етапах для всіх
+                учасників.&lt;br&gt;✔️ Формат: онлайн-заняття тричі на тиждень (лекції, практичні
+                заняття, обговорення виконаних завдань та відповіді на запитання) та самостійне
+                вивчення матеріалів.&lt;/p&gt;
+
+                &lt;p&gt;Програма складається з двох етапів: вивчення основ ІТ та заглиблення
+                в спеціалізацію на вибір: Java, .NET, Test Automation, Manual Testing, Cloud
+                &amp;amp; DevOps, Front-End, Вusiness Analysis. Наша команда викладачів і менторів
+                буде супроводжувати учасників на всіх етапах навчання.&lt;/p&gt;
+
+                &lt;p&gt;📈 Вперед до старту в новій професії!&lt;/p&gt;</description>
+            <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Vika Parkhomenko</dc:creator>
+            <pubDate>Sat, 28 Feb 2026 23:00:23 +0200</pubDate>
+            <guid>https://dou.ua/calendar/56616/</guid>
+        </item>
+        <item>
+            <title>Грантова програма для розробників протипожежних дронів, 10 березня</title>
+            <link>https://dou.ua/calendar/56622/</link>
+            <description>&lt;p&gt;&lt;a href="https://dou.ua/calendar/56622/"
+                target="_blank"&gt;&lt;img
+                src="https://s.dou.ua/CACHE/images/img/events/photo_2026-02-11_14-31-30/ae31b32dd6308f4325167c7e18fc3881.png"
+                style="float: right; padding-left:
+                4px;"&gt;&lt;/a&gt;&lt;strong&gt;Дата:&lt;/strong&gt; 10 березня
+                (вівторок)&lt;br&gt;&lt;strong&gt;Місце:&lt;/strong&gt; онлайн&lt;/p&gt;
+                &lt;p&gt;Повномасштабна війна щодня ставить рятувальників ДСНС перед надскладними
+                завданнями: масштабні пожежі після обстрілів, повторні удари та обвали конструкцій.
+                &lt;br&gt;Для роботи в таких умовах ДСНС уже ефективно застосовує іноземні наземні
+                роботизовані комплекси, однак Україні критично необхідні власні протипожежні НРК,
+                створені з урахуванням умов і реалій війни.&lt;/p&gt;
+
+                &lt;p&gt;📍Український фонд стартапів за підтримки Мінцифри, Brave1 та ДСНС
+                продовжує прийом заявок на грантову програму для виробників протипожежних наземних
+                роботизованих комплексів.&lt;/p&gt;
+
+                &lt;p&gt;Ми шукаємо розробки, що здатні замінити іноземні аналоги та взяти на себе
+                найризикованіші завдання у зонах, де присутність людини є небезпечною. Ключові
+                вимоги до рішень:&lt;br&gt;◼️ дистанційно керований пожежний ствол&lt;br&gt;◼️
+                радіус керування від 2 км&lt;br&gt;◼️ вантажопідйомність від 200 кг&lt;br&gt;◼️
+                тривалість безперервної роботи від &lt;nobr&gt;4-х&lt;/nobr&gt; годин&lt;/p&gt;
+                &lt;p&gt;Деталі про грантову програму тут: &lt;a
+                href="https://usf.com.ua/grantova-programa-dlya-rozrobnikiv-protipozhezhnih-droniv"
+                target="_blank"&gt;usf.com.ua/...​iv-protipozhezhnih-droniv&lt;/a&gt;&lt;br&gt;Подавайте
+                свою ідею за посиланням: &lt;a href="https://portal.usf.com.ua/"
+                target="_blank"&gt;portal.usf.com.ua&lt;/a&gt;&lt;br&gt;Відібрані рішення будуть
+                передані ДСНС для роботи.&lt;/p&gt;
+
+                &lt;p&gt;Замінимо людей роботами там, де це можливо. Збережемо життя тих, хто рятує
+                нас.&lt;/p&gt;</description>
+            <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Vika Parkhomenko</dc:creator>
+            <pubDate>Sat, 28 Feb 2026 22:56:03 +0200</pubDate>
+            <guid>https://dou.ua/calendar/56622/</guid>
+        </item>
+        <item>
+            <title>Грантова програма Startup EDGE, 20 березня</title>
+            <link>https://dou.ua/calendar/56624/</link>
+            <description>&lt;p&gt;&lt;a href="https://dou.ua/calendar/56624/"
+                target="_blank"&gt;&lt;img
+                src="https://s.dou.ua/CACHE/images/img/events/maxresdefault_1yLGJp3/136aca709d2f6f57341a454fd27a11ea.png"
+                style="float: right; padding-left:
+                4px;"&gt;&lt;/a&gt;&lt;strong&gt;Дата:&lt;/strong&gt; 20 березня
+                (п’ятниця)&lt;br&gt;&lt;strong&gt;Місце:&lt;/strong&gt; онлайн&lt;/p&gt;
+
+                &lt;p&gt;📢 Стартує другий open call з прийому заявок на грантову програму Startup
+                EDGE для стартапів у секторах DeepTech, GreenTech та EdTech.&lt;/p&gt;
+                &lt;p&gt;Український фонд стартапів продовжує приймати заявки від стартапів у межах
+                грантової програми Startup EDGE. &lt;/p&gt;
+
+                &lt;p&gt;У фокусі грантової програми стартапи, що працюють у галузях:&lt;br&gt;◼️
+                DeepTech: штучний інтелект та машинне навчання, біотехнології та науки про життя,
+                медичні технології, робототехніка, передові матеріали та виробництво, квантові
+                обчислення, Інтернет речей, кібербезпека, космічні технології, електроніка,
+                фотоніка, 5G, Web 3.0 та інші проривні технології.&lt;br&gt;◼️ GreenTech: сталий
+                розвиток, відновлювана енергія, чисті технології, рішення для економії ресурсів
+                та зменшення негативного впливу на навколишнє середовище.&lt;br&gt;◼️ EdTech:
+                цифрові освітні рішення та технології для трансформації навчання та підвищення
+                доступності знань.&lt;/p&gt;
+
+                &lt;p&gt;Загальний бюджет грантової програми Startup EDGE становить €1 000 000.
+                &lt;/p&gt;
+
+                &lt;p&gt;Стартапи на стадії pre-seed можуть отримати грант до €20 000, тоді
+                як стартапи, що знаходяться на стадії seed, можуть претендувати на грант на суму
+                до €40 000.&lt;/p&gt;
+
+                &lt;p&gt;Протягом другого open call експерти відберуть до 9 проєктів&lt;br&gt;Старт
+                подачі заявок: 19 лютого 2026 року&lt;br&gt;Дедлайн подачі заявок: 20 березня 2026
+                року&lt;/p&gt;
+
+                &lt;p&gt;Подавайте заявки через веб-портал Українського фонду стартапів
+                за посиланням: &lt;a href="https://portal.usf.com.ua/"
+                target="_blank"&gt;portal.usf.com.ua&lt;/a&gt;&lt;/p&gt;
+
+                &lt;p&gt;Кожна заявка пройде прозорий багатоетапний процес оцінки, включаючи
+                внутрішні перевірки на відповідність, експертну оцінку, представлення заявки
+                конкурсній комісії та остаточне схвалення Наглядовою радою Фонду. &lt;/p&gt;
+                &lt;p&gt;Про умови участі, критерії відбору та етапи оцінювання заявок в межах
+                програми Startup EDGE читайте за посиланням: &lt;a
+                href="https://www.instagram.com/p/DTuo_qUDW7W/"
+                target="_blank"&gt;www.instagram.com/p/DTuo_qUDW7W&lt;/a&gt;&lt;br&gt;Усі деталі про
+                Startup EDGE тут: &lt;a href="https://usf.com.ua/programs/grant-support"
+                target="_blank"&gt;usf.com.ua/programs/grant-support&lt;/a&gt;&lt;/p&gt;</description>
+            <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Vika Parkhomenko</dc:creator>
+            <pubDate>Sat, 28 Feb 2026 22:49:38 +0200</pubDate>
+            <guid>https://dou.ua/calendar/56624/</guid>
+        </item>
+        <item>
+            <title>USF Pitch Days, 12 березня, Київ</title>
+            <link>https://dou.ua/calendar/56625/</link>
+            <description>&lt;p&gt;&lt;a href="https://dou.ua/calendar/56625/"
+                target="_blank"&gt;&lt;img
+                src="https://s.dou.ua/CACHE/images/img/events/21a783ed-48b8-4cf3-8e1a-fba40af6d35d/399e15706d294acab13d033202ada812.png"
+                style="float: right; padding-left:
+                4px;"&gt;&lt;/a&gt;&lt;strong&gt;Дата:&lt;/strong&gt; 12 березня
+                (четвер)&lt;br&gt;&lt;strong&gt;Початок:&lt;/strong&gt;
+                14:00&lt;br&gt;&lt;strong&gt;Місце:&lt;/strong&gt; Київ&lt;/p&gt;
+
+                &lt;p&gt;💫 USF Pitch Days повертаються в офлайн-формат &lt;/p&gt;
+                &lt;p&gt;Долучайтеся до пітч-днів першої когорти Startup EDGE для pre-seed та seed
+                стартапів із грантовим фінансуванням €20 000 та €40 000 — USF Pitch Days! &lt;/p&gt;
+                &lt;p&gt;Це подія, що стане точкою перетину фаундерів, інвесторів, екосистемних
+                лідерів і всіх, хто сьогодні будує український tech 🦾&lt;/p&gt;
+                &lt;p&gt;Що у програмі: &lt;br&gt;• пітчинг pre-seed стартапів у межах Startup
+                EDGE — за гранти €20 000 (12 березня) &lt;br&gt;• пітчинг seed стартапів у межах
+                Startup EDGE — за гранти €40 000 (13 березня)&lt;br&gt;• експертні воркшопи від
+                європейського інноваційного хабу WIN2EDIH&lt;br&gt;• нагородження переможців IDF
+                Awards 2025&lt;/p&gt;
+
+                &lt;p&gt;Коли: &lt;nobr&gt;12–13&lt;/nobr&gt; березня 2026&lt;br&gt;Де: Kooperativ,
+                Київ, вул. Січових Стрільців, 23A&lt;br&gt;Реєструйтеся за посиланням: &lt;a
+                href="https://luma.com/dfkavgg4"
+                target="_blank"&gt;luma.com/dfkavgg4&lt;/a&gt;&lt;/p&gt;
+
+                &lt;p&gt;Хто отримає грант Startup EDGE — дізнаємося вже скоро 😎&lt;/p&gt;</description>
+            <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Vika Parkhomenko</dc:creator>
+            <pubDate>Sat, 28 Feb 2026 22:43:08 +0200</pubDate>
+            <guid>https://dou.ua/calendar/56625/</guid>
+        </item>
+        <item>
+            <title>Seeds of Bravery Демо День 2026, 11 березня, Варшава</title>
+            <link>https://dou.ua/calendar/56623/</link>
+            <description>&lt;p&gt;&lt;a href="https://dou.ua/calendar/56623/"
+                target="_blank"&gt;&lt;img
+                src="https://s.dou.ua/CACHE/images/img/events/photo_2026-02-11_15-41-15/53e54e650c7e5e4ea32e74a3457d21b0.png"
+                style="float: right; padding-left:
+                4px;"&gt;&lt;/a&gt;&lt;strong&gt;Дата:&lt;/strong&gt; 11 березня
+                (середа)&lt;br&gt;&lt;strong&gt;Місце:&lt;/strong&gt; Варшава та онлайн&lt;/p&gt;
+                &lt;p&gt;📍11 березня у Варшаві відбудеться Seeds of Bravery Демо День 2026.
+                &lt;/p&gt;
+
+                &lt;p&gt;Це заключна подія, що підсумовує шлях десятків стартапів і відкриває нові
+                можливості для міжнародних інвесторів. Цього дня на одній сцені зберуться стартапи
+                з різних галузей — усі вони розробляють deeptech-інновації з реальним глобальним
+                потенціалом. Це команди, які пройшли відбір, удосконалили свої продукти і технології
+                та готові до масштабування, інвестицій і подальшого зростання.&lt;/p&gt;
+
+                &lt;p&gt;💼 Запрошуємо інвесторів долучитися до події та особисто познайомитися
+                з найсильнішими бенефіціарами Seeds of Bravery. Це українські фаундери і команди,
+                що будують бізнес у складні часи та прагнуть залучати інвестиції для виходу на новий
+                рівень.&lt;/p&gt;
+
+                &lt;p&gt;Дата: 11 березня&lt;br&gt;Час: 14:30 — 17:30 (СЕТ)&lt;br&gt;Локація:
+                Варшава&lt;br&gt;Реєстрація за посиланням: &lt;a
+                href="https://forms.gle/DSobBPEMRKm2qmAC8"
+                target="_blank"&gt;forms.gle/DSobBPEMRKm2qmAC8&lt;/a&gt;&lt;/p&gt;
+
+                &lt;p&gt;Подія пройде в офлайн-форматі та буде додатково транслюватися у режимі
+                онлайн. Реєстрація обов’язкова для присутності як офлайн, так і онлайн.&lt;/p&gt;</description>
+            <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Vika Parkhomenko</dc:creator>
+            <pubDate>Sat, 28 Feb 2026 22:37:57 +0200</pubDate>
+            <guid>https://dou.ua/calendar/56623/</guid>
+        </item>
+        <item>
+            <title>Stairs: High 5 Mobile, 12 березня, Львів</title>
+            <link>https://dou.ua/calendar/56621/</link>
+            <description>&lt;p&gt;&lt;a href="https://dou.ua/calendar/56621/"
+                target="_blank"&gt;&lt;img
+                src="https://s.dou.ua/CACHE/images/img/events/photo_2026-02-27_16-25-25/ff1757f4c18561f2f0a91d6ba0a87723.png"
+                style="float: right; padding-left:
+                4px;"&gt;&lt;/a&gt;&lt;strong&gt;Дата:&lt;/strong&gt; 12 березня
+                (четвер)&lt;br&gt;&lt;strong&gt;Місце:&lt;/strong&gt; Львів&lt;/p&gt;
+
+                &lt;p&gt;Зима вже майже закінчилася і ми готові оголосити про нашу наступну подію
+                Stairs: High 5 Mobile&lt;/p&gt;
+
+                &lt;p&gt;Дата: 12 Березня (Четвер)&lt;/p&gt;
+
+                &lt;p&gt;Реєструйтеся за посиланням тут: посилання на подію: &lt;a
+                href="https://gdg.community.dev/e/mju9xn/"
+                target="_blank"&gt;gdg.community.dev/e/mju9xn&lt;/a&gt;&lt;/p&gt;
+
+                &lt;p&gt;Джерело інформації: &lt;a href="https://t.me/gdg_lviv/128"
+                target="_blank"&gt;t.me/gdg_lviv/128&lt;/a&gt;&lt;/p&gt;</description>
+            <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Vika Parkhomenko</dc:creator>
+            <pubDate>Sat, 28 Feb 2026 22:35:07 +0200</pubDate>
+            <guid>https://dou.ua/calendar/56621/</guid>
+        </item>
+        <item>
+            <title>Програма “Empowering Accelerators in Ukraine”, 6 березня</title>
+            <link>https://dou.ua/calendar/56619/</link>
+            <description>&lt;p&gt;&lt;a href="https://dou.ua/calendar/56619/"
+                target="_blank"&gt;&lt;img
+                src="https://s.dou.ua/CACHE/images/img/events/photo_2026-02-24_17-30-03_2/0b21766a3b27e5f2342270be60ad9a82.png"
+                style="float: right; padding-left:
+                4px;"&gt;&lt;/a&gt;&lt;strong&gt;Дата:&lt;/strong&gt; 6 березня
+                (п’ятниця)&lt;br&gt;&lt;strong&gt;Місце:&lt;/strong&gt; онлайн&lt;/p&gt;
+                &lt;p&gt;EBRD in Ukraine за підтримки Швейцарії та у партнерстві з Civitta відкриває
+                набір заявок на програму «Empowering Accelerators in Ukraine».&lt;/p&gt;
+                &lt;p&gt;До участі запрошуються українські приватні компанії та громадські
+                організації, які впроваджують акселераційні програми для технологічних
+                стартапів.&lt;/p&gt;
+
+                &lt;p&gt;У межах програми ви:&lt;br&gt;▪️ візьмете участь у 5 онлайн-воркшопах
+                та подальших консультаціях із провідними українськими та міжнародними
+                експертами;&lt;br&gt;▪️ долучитеся до &lt;nobr&gt;2-денного&lt;/nobr&gt;
+                офлайн-буткемпу;&lt;br&gt;▪️ отримаєте до 3 годин індивідуального менторського
+                супроводу від галузевих експертів для розробки або вдосконалення концепції вашого
+                акселератора;&lt;br&gt;▪️ встановите контакти з ключовими учасниками екосистеми —
+                акселераторами, інвесторами, менторами та корпоративними партнерами — для
+                налагодження практичної співпраці та довгострокових партнерств.&lt;/p&gt;
+                &lt;p&gt;Програма триватиме з березня по червень 2026 року. &lt;/p&gt;
+
+                &lt;p&gt;⏳ Подати заявку можна до 6 березня включно&lt;br&gt;👉 &lt;a
+                href="https://forms.gle/yNgusyF4WgEvECk9A"
+                target="_blank"&gt;forms.gle/yNgusyF4WgEvECk9A&lt;/a&gt;&lt;br&gt;📌 Участь
+                безоплатна&lt;/p&gt;</description>
+            <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Vika Parkhomenko</dc:creator>
+            <pubDate>Sat, 28 Feb 2026 22:30:33 +0200</pubDate>
+            <guid>https://dou.ua/calendar/56619/</guid>
+        </item>
+        <item>
+            <title>Brave Students: Пітч-драйв by mono, 2 березня, Київ</title>
+            <link>https://dou.ua/calendar/56618/</link>
+            <description>&lt;p&gt;&lt;a href="https://dou.ua/calendar/56618/"
+                target="_blank"&gt;&lt;img
+                src="https://s.dou.ua/CACHE/images/img/events/photo_2026-02-26_14-16-33/16445a6c9f32a91c9517f3c50725f95f.png"
+                style="float: right; padding-left:
+                4px;"&gt;&lt;/a&gt;&lt;strong&gt;Дата:&lt;/strong&gt; 2 березня
+                (понеділок)&lt;br&gt;&lt;strong&gt;Місце:&lt;/strong&gt; Київ&lt;/p&gt;
+
+                &lt;p&gt;🦾 Brave Students: Пітч-драйв by mono — можливості для студентських
+                dual-use і defence-проєктів&lt;/p&gt;
+
+                &lt;p&gt;Сучасні виклики потребують швидких рішень, а оборонна індустрія — команд,
+                здатних бачити реальні потреби та пропонувати технології, які можна інтегрувати
+                прямо зараз.&lt;/p&gt;
+
+                &lt;p&gt;У межах заходу Brave Students, що відбудеться 14 березня у Києві, Brave1 та
+                Український фонд стартапів спільно з mono організовують Пітч-драйв — взаємодію між
+                студентськими dual-use та defence командами й представниками оборонних
+                компаній.&lt;/p&gt;
+
+                &lt;p&gt;Відберемо до 10 найсильніших студентських стартапів у галузі defence
+                та dual-use, що презентують свої рішення перед журі, зокрема представниками
+                індустрії: виробниками оборонних технологій, венчурними фондами, інвесторами,
+                акселераторами.&lt;/p&gt;
+
+                &lt;p&gt;Перевагу у відборі матимуть представники стартап-шкіл — інкубаторів —
+                акселераторів. &lt;/p&gt;
+
+                &lt;p&gt;◼️ Формат: 3 хвилини пітч + до 10 хвилин Q&amp;amp;A&lt;br&gt;◼️ Brave
+                Students: Пітч-драйв — це змога залучити інвестиції та укласти перспективні
+                партнерства. &lt;br&gt;◼️ Після публічної частини на учасників чекає office hours
+                з індустрією — персональні зустрічі з виробниками та R&amp;amp;D-командами для
+                обговорення пілотів, інтеграції та подальшої співпраці.&lt;/p&gt;
+
+                &lt;p&gt;📲 Реєструйтеся до 2 березня (10:00) за посиланням: &lt;a
+                href="https://forms.gle/qTDQvHpzZzW6tno39"
+                target="_blank"&gt;forms.gle/qTDQvHpzZzW6tno39&lt;/a&gt;&lt;/p&gt;</description>
+            <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Vika Parkhomenko</dc:creator>
+            <pubDate>Sat, 28 Feb 2026 22:27:45 +0200</pubDate>
+            <guid>https://dou.ua/calendar/56618/</guid>
+        </item>
+        <item>
+            <title>Благодійний інтенсив «Strategic Writer», 4 березня, Київ</title>
+            <link>https://dou.ua/calendar/56620/</link>
+            <description>&lt;p&gt;&lt;a href="https://dou.ua/calendar/56620/"
+                target="_blank"&gt;&lt;img
+                src="https://s.dou.ua/CACHE/images/img/events/photo_2026-02-24_11-56-17/44f7d9e6ce6f91521adacdc84e5101d3.png"
+                style="float: right; padding-left:
+                4px;"&gt;&lt;/a&gt;&lt;strong&gt;Дата:&lt;/strong&gt; 4 березня
+                (середа)&lt;br&gt;&lt;strong&gt;Початок:&lt;/strong&gt;
+                17:00&lt;br&gt;&lt;strong&gt;Місце:&lt;/strong&gt; Київ&lt;/p&gt;
+                &lt;p&gt;Благодійний інтенсив «Strategic Writer» для копірайтерів, сммників
+                та журналістів від Kooperativ.&lt;/p&gt;
+
+                &lt;p&gt;Якщо ти добре володієш словом, але досі відчуваєш себе просто «руками», час
+                вийти за межі виконання ТЗ і стати стратегічним автором. Твій місток до цікавіших
+                проєктів, вищої оплати та статусу «голос бренду».&lt;/p&gt;
+                &lt;p&gt;Що отримаєш:&lt;br&gt;• Глибоке дослідження та пошук інсайтів;&lt;br&gt;•
+                Креативні рішення для бізнесу;&lt;br&gt;• Чітку структуру для лонгрідів
+                і спецпроєктів;&lt;br&gt;• Саморедактуру без вигоряння.&lt;/p&gt;
+
+                &lt;p&gt;Серед спікерів — Анастасія Яланська, Олександр Стрельников та практики
+                ринку. Також буде можливість потрапити до пулу 50+ авторів для майбутніх проєктів
+                AIN.&lt;/p&gt;
+
+                &lt;p&gt;100% прибутку передаємо на «Східний Бар’єр» від AZOV.ONE. &lt;/p&gt;
+                &lt;p&gt;Де: Київ, Kooperativ (вул. Січових Стрільців, 23а)&lt;br&gt;Коли: 4 березня
+                2026, &lt;nobr&gt;17:00–21:00&lt;/nobr&gt;&lt;/p&gt;
+
+                &lt;p&gt;Забрати свій квиток тут👈: &lt;a
+                href="https://eventmate.app/events/share/a96ff267-d2e8-4084-8793-2f3b04b569e8?locale=uk"
+                target="_blank"&gt;eventmate.app/...​93-2f3b04b569e8?locale=uk&lt;/a&gt;&lt;/p&gt;</description>
+            <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Vika Parkhomenko</dc:creator>
+            <pubDate>Sat, 28 Feb 2026 22:23:24 +0200</pubDate>
+            <guid>https://dou.ua/calendar/56620/</guid>
+        </item>
+        <item>
+            <title>Весняний забіг від «Ліги Доброго Бігу», 7 березня, Львів</title>
+            <link>https://dou.ua/calendar/56615/</link>
+            <description>&lt;p&gt;&lt;a href="https://dou.ua/calendar/56615/"
+                target="_blank"&gt;&lt;img
+                src="https://s.dou.ua/CACHE/images/img/events/photo_2026-02-26_16-13-34/ce0aae5279c07d7f8ad154b1ee37f225.png"
+                style="float: right; padding-left:
+                4px;"&gt;&lt;/a&gt;&lt;strong&gt;Дата:&lt;/strong&gt; 7 березня
+                (субота)&lt;br&gt;&lt;strong&gt;Місце:&lt;/strong&gt; Львів&lt;/p&gt;
+
+                &lt;p&gt;Ви, Львів і благодійний забіг😍 звучить ідеально, так? Ловіть
+                деталі!&lt;/p&gt;
+
+                &lt;p&gt;Цього року всі забіги «Ліги Доброго Бігу» присвячуються ветеранам, тож усі
+                реєстрації для учасників бойових дій — безкоштовні. А весь прибуток з події буде
+                перерахований на рахунки «Повернись живим» ❤️‍🩹&lt;/p&gt;
+
+                &lt;p&gt;Коли: 7 березня 2026 &lt;br&gt;Де: м. Львів, вул. Старознесенська,
+                &lt;nobr&gt;24-26&lt;/nobr&gt; (!FESTrepublic)&lt;/p&gt;
+
+                &lt;p&gt;🔗Реєстрація: &lt;a href="https://runstyle.net/events/spring-trail-2026/"
+                target="_blank"&gt;runstyle.net/...​events/spring-trail-2026&lt;/a&gt;&lt;/p&gt;
+                &lt;p&gt;Джерело інформації: &lt;a href="https://t.me/savelifeua/4312"
+                target="_blank"&gt;t.me/savelifeua/4312&lt;/a&gt;&lt;/p&gt;</description>
+            <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Vika Parkhomenko</dc:creator>
+            <pubDate>Sat, 28 Feb 2026 22:15:35 +0200</pubDate>
+            <guid>https://dou.ua/calendar/56615/</guid>
+        </item>
+    </channel>
+</rss>

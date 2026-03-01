@@ -7,6 +7,9 @@ local feedparser = require "feedparser"
 local fetch_data_module = require("fetch_data_module");
 local fetch_data = fetch_data_module.fetch_data;
 
+local format_data_module = require("format_notify_message_module")
+local format_data = format_data_module.format_data
+
 local calendar_rss_feed_link = "https://dou.ua/calendar/feed/"
 
 print("🚀 start fetching the RSS feed... from " .. calendar_rss_feed_link)
@@ -39,5 +42,8 @@ for index, value in ipairs(parsed_data.entries) do
     print("📝 Summary Length: \n"..#value.summary)
     print("\n")
 end
+
+local formatted_data = format_data(parsed_data)
+print(formatted_data)
 
 -- print(parsed_data.toString())

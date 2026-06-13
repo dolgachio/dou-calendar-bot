@@ -14,12 +14,38 @@ export const douCalendarI18n = new I18n<DouCalendarBotContext>({
 
 const userStore = new InMemoryUserStore();
 
-export function createBot() {
+export async function createBot() {
   // Create an instance of the `Bot` class and pass your bot token to it.
   const bot = new Bot<DouCalendarBotContext>(BOT_TOKEN); // <-- put your bot token between the ""
 
   bot.use(douCalendarI18n.middleware());
-  
+
+  // Configure the persistent Telegram menu button for all users
+  await bot.api.setChatMenuButton({
+    menu_button: {
+      type: "commands", // Tells Telegram to open the commands list or trigger the main action
+    },
+  });
+
+  // 1. Set the default fallback command list
+  await bot.api.setMyCommands([
+    {
+      command: "start",
+      description: douCalendarI18n.translate("en", "menu_start"),
+    },
+  ]);
+
+  // 2. Register localized versions for your supported languages
+  await bot.api.setMyCommands(
+    [
+      {
+        command: "start",
+        description: douCalendarI18n.translate("uk", "menu_start"),
+      },
+    ],
+    { language_code: "uk" }, // Native Ukrainian users will see this version
+  );
+
   // Handle the /start command.
   bot.command("start", async (ctx) => {
     const userId = ctx.from?.id;
@@ -37,7 +63,7 @@ export function createBot() {
   bot.callbackQuery(BotCommandsEnum.SUBSCRIBE, async (ctx) => {
     await userStore.subscribeUser(ctx.from!.id);
     await ctx.answerCallbackQuery();
-    await ctx.reply(ctx.t("subscribe_success"), {
+    await ctx.editMessageText(ctx.t("subscribe_success"), {
       reply_markup: getMenu({ isSubscribed: true, ctx }),
     });
   });
@@ -45,7 +71,7 @@ export function createBot() {
   bot.callbackQuery(BotCommandsEnum.UNSUBSCRIBE, async (ctx) => {
     await userStore.unsubscribeUser(ctx.from!.id);
     await ctx.answerCallbackQuery();
-    await ctx.reply(ctx.t("unsubscribe_success"), {
+    await ctx.editMessageText(ctx.t("unsubscribe_success"), {
       reply_markup: getMenu({ isSubscribed: false, ctx }),
     });
   });

@@ -1,3 +1,4 @@
+menu_start = 🚀 Start
 introduction_unsubscribed = 👋 Hello! I am a bot that helps you keep track of upcoming events from dou.ua. Subscribe to receive daily updates!
 introduction_subscribed = 👋 Hello! You are already subscribed to event updates. You will receive notifications about new events.
 subscribe_success = 🎉 You have successfully subscribed to the updates!

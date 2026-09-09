@@ -10,6 +10,6 @@
     "forceConsistentCasingInFileNames": true,
     "sourceMap": false
   },
-  "include": ["src/**/*", "apps/bot/src/config", "apps/bot/src/constants", "apps/bot/src/data", "apps/bot/src/menu", "apps/bot/src/types", "apps/bot/src/create-bot.ts", "apps/bot/src/index.ts"],
+  "include": ["src/**/*"],
   "exclude": ["node_modules"]
 }

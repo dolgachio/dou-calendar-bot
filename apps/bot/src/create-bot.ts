@@ -9,7 +9,7 @@ import { InMemoryUserStore } from "./data/user-store/in-memory-user-store";
 
 export const douCalendarI18n = new I18n<DouCalendarBotContext>({
   defaultLocale: "uk",
-  directory: "src/bot/locales",
+  directory: "src/locales",
 });
 
 const userStore = new InMemoryUserStore();

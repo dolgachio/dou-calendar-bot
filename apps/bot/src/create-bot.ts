@@ -6,6 +6,7 @@ import { I18n } from "@grammyjs/i18n";
 import { getMenu } from "./menu/get-menu";
 import { BotCommandsEnum } from "./constants/bot-commands.enum";
 import { InMemoryUserStore } from "./data/user-store/in-memory-user-store";
+import { UserFromGetMe } from "grammy/types";
 
 export const douCalendarI18n = new I18n<DouCalendarBotContext>({
   defaultLocale: "uk",
@@ -14,9 +15,9 @@ export const douCalendarI18n = new I18n<DouCalendarBotContext>({
 
 const userStore = new InMemoryUserStore();
 
-export async function createBot() {
+export async function createBot(botToken: string, botInfo?: UserFromGetMe) {
   // Create an instance of the `Bot` class and pass your bot token to it.
-  const bot = new Bot<DouCalendarBotContext>(BOT_TOKEN); // <-- put your bot token between the ""
+  const bot = new Bot<DouCalendarBotContext>(botToken, { botInfo }); // <-- put your bot token between the ""
 
   bot.use(douCalendarI18n.middleware());
 

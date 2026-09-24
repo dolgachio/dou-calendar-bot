@@ -11,6 +11,8 @@
 import { Bot, Context, webhookCallback } from 'grammy';
 import { UserFromGetMe } from 'grammy/types';
 
+import { createBot } from './create-bot';
+
 export interface Env {
 	// Example binding to KV. Learn more at https://developers.cloudflare.com/workers/runtime-apis/kv/
 	// MY_KV_NAMESPACE: KVNamespace;
@@ -32,11 +34,7 @@ export interface Env {
 
 export default {
 	async fetch(request: Request, env: Env, ctx: ExecutionContext): Promise<Response> {
-		const bot = new Bot(env.BOT_TOKEN, { botInfo: env.BOT_INFO });
-
-		bot.command('start', async (ctx: Context) => {
-			await ctx.reply('Hello, world!');
-		});
+		const bot = await createBot(env.BOT_TOKEN, env.BOT_INFO);
 
 		return webhookCallback(bot, 'cloudflare-mod')(request);
 	},

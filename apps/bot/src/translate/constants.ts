@@ -1,0 +1,14 @@
+import { BotLocaleData } from './types';
+
+export const UK_LOCALE: BotLocaleData = {
+	menu_start: `🚀 Почати`,
+	introduction_unsubscribed: `👋 Привіт! Я бот, який допоможе тобі слідкувати за майбутніми технічними подіями з dou.ua. Підпишись, щоб отримувати щоденні оновлення!`,
+	introduction_subscribed: `👋 Привіт, радий знову вас бачити, ви вже підписані на оновлення подій. Ви будете отримувати сповіщення про нові події.`,
+	subscribe_success: `🎉 Ви успішно підписалися на події календаря dou.ua!`,
+	unsubscribe_success: `😞 Ви успішно відписалися від подій календаря dou.ua!`,
+	subscribe_error: `😞 Сталася помилка під час спроби підписки. Будь ласка, спробуйте пізніше.`,
+	calendar_link: `🚀 dou.ua/calendar`,
+	button_subscribe: `✅ Підписатися`,
+	button_unsubscribe: `❌ Відписатися`,
+	button_view_events: `📅 Переглянути події`,
+};

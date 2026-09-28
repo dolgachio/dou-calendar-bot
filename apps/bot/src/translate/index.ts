@@ -1,0 +1,1 @@
+export { customTranslate } from './translate'

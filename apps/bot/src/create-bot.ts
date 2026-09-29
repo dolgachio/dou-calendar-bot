@@ -41,14 +41,18 @@ export async function createBot(botToken: string, botInfo?: UserFromGetMe): Prom
 
 	// Handle the /start command.
 	bot.command('start', async (ctx) => {
-		const userId = ctx.from?.id;
-		const isUserSubscribed = await userStore.isUserSubscribed(userId!);
-		const menu = getMenu({ isSubscribed: isUserSubscribed, ctx });
-		const text = isUserSubscribed ? customTranslate('introduction_subscribed') : customTranslate('introduction_unsubscribed');
+		try {
+			const userId = ctx.from?.id;
+			const isUserSubscribed = await userStore.isUserSubscribed(userId!);
+			const menu = getMenu({ isSubscribed: isUserSubscribed, ctx });
+			const text = isUserSubscribed ? customTranslate('introduction_subscribed') : customTranslate('introduction_unsubscribed');
 
-		ctx.reply(text, {
-			reply_markup: menu,
-		});
+			await ctx.reply(text, {
+				reply_markup: menu,
+			});
+		} catch (error) {
+			console.error(error)
+		}
 	});
 
 	bot.callbackQuery(BotCommandsEnum.SUBSCRIBE, async (ctx) => {

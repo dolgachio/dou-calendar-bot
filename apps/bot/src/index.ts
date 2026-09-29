@@ -8,7 +8,7 @@
  * Learn more at https://developers.cloudflare.com/workers/
  */
 
-import { Bot, Context, webhookCallback } from 'grammy';
+import { webhookCallback } from 'grammy';
 import { UserFromGetMe } from 'grammy/types';
 
 import { createBot } from './create-bot';

@@ -1,11 +1,8 @@
 ## Deployment 
 
-
-
 ### Deploying Telegram bot as Cloudflare worker
 
 **Prerequisites**
-
 
 You could use `pnpm dlx` but we suggest installing `wrangler` globally instead.
 
@@ -29,8 +26,12 @@ This instruction assumes, that your Telegram bot is created and you have `BOT_IN
     pnpm deploy
     ```
 
-3. Setting Your Webhook
+3. Get your webhook URL
+
+4. Setting Your Webhook
     ```bash
     curl https://api.telegram.org/bot<BOT_TOKEN>/setWebhook?url=https://<MY_BOT>.<MY_SUBDOMAIN>.workers.dev/
     ```
+https://dou-calendar-bot.fine-func.workers.dev
+    curl https://api.telegram.org/bot8512322035:AAFW0DxetKctYgkx_SDUJ0EWfCPOMkpV7-M/setWebhook?url=https://dou-calendar-bot.fine-func.workers.dev/
 

@@ -21,6 +21,8 @@ This instruction assumes, that your Telegram bot is created and you have `BOT_IN
     pnpm dlx wrangler secret put BOT_TOKEN
     ```
 
+    > NOTE: When you run commands above in the Cloudflare Worker folder (with wrangler.toml/jsonc inside), you set this env. variable **only for this worker**, not all workers.
+
 2. Got to `app/bot` folder and deploy bot code:
     ```bash
     pnpm deploy
